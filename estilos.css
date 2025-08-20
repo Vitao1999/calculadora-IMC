@@ -1,0 +1,26 @@
+body {
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+background-image: url(img\ fundo.png);
+    display: flex;
+    justify-content: center;
+margin: 0;
+    align-items: center;
+
+}
+.container {
+   
+     border-radius: 20px;
+    padding: 20px;
+    width: 280px;
+    height: 280px;
+  
+    box-sizing: border-box;
+    background-color: rgba(36, 119, 213, 0.849);
+    margin: 200px;
+}
+button:hover {
+    color: blue;
+}
+
